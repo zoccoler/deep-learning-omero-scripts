@@ -11,7 +11,7 @@ Currently the following scripts are available:
 
 ### Configuring the environment
 
-The scripts expect certain python packages to be installed, like tensorflow and stardist for example. Thus, you (or your IT department) should install the packages described in the [environment.yaml file]() (work in progess...) into the OMERO server. These packages expect that the server has a NVIDIA graphics card with updated drivers where CUDA can be installed.
+The scripts expect certain python packages to be installed, like tensorflow and stardist for example. Thus, you (or your IT department) should install the packages described in the [environment.yaml file](https://github.com/zoccoler/deep-learning-omero-scripts/blob/main/environment.yaml) (work in progess...) into the OMERO server. These packages expect that the server has a NVIDIA graphics card with updated drivers where CUDA can be installed.
 
 ### Loading scripts to server
 
