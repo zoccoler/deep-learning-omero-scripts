@@ -1,0 +1,19 @@
+# run: conda env create --file environment.yaml
+name: dl-omero-scripts-env
+channels:
+  - conda-forge
+# Check this file: https://github.com/ome/omero-guide-python/blob/master/binder/environment.yml
+
+# TO DO: check needed packages and test environment
+
+
+# dependencies:
+# - python>=3.8, <3.9
+# - pip
+# - cuda # check version
+# - cudnn # check version
+
+# - pip:
+#   - ezomero
+#   - tensorflow # check version
+#   - stardist # check version
